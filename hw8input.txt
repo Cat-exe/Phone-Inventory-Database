@@ -1,0 +1,10 @@
+0001 599.99 500 Toshiba Phone
+0002 399.99 500 Samsung GalaxyS7
+0003 250.00 500 Apple iPhone6
+0004 250.00 500 Samsung GalaxyS6
+0005 300.00 500 Apple iPhoneSE
+0006 599.99 500 Google Phone
+0007 599.99 500 Blackberry LT
+0008 599.99 500 Sony Phone
+0009 399.99 500 Apple iPhone7
+0010 599.99 500 Microsoft Smartphone

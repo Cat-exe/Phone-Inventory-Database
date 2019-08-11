@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+Product Number: #1
+Toshiba Phone
+Price: $599.99
+[500] in stock.
+_________________________________
+
+
+Product Number: #2
+Samsung GalaxyS7
+Price: $399.99
+[500] in stock.
+_________________________________
+
+
+Product Number: #3
+Apple iPhone6
+Price: $250
+[500] in stock.
+_________________________________
+
+
+Product Number: #4
+Samsung GalaxyS6
+Price: $250
+[500] in stock.
+_________________________________
+
+
+Product Number: #5
+Apple iPhoneSE
+Price: $300
+[500] in stock.
+_________________________________
+
+
+Product Number: #6
+Google Phone
+Price: $599.99
+[500] in stock.
+_________________________________
+
+
+Product Number: #7
+Blackberry LT
+Price: $599.99
+[500] in stock.
+_________________________________
+
+
+Product Number: #8
+Sony Phone
+Price: $599.99
+[500] in stock.
+_________________________________
+
+
+Product Number: #9
+Apple iPhone7
+Price: $399.99
+[500] in stock.
+_________________________________
+
+
+Product Number: #10
+Microsoft Smartphone
+Price: $599.99
+[500] in stock.
+_________________________________
+
+Enter the company of an item you would like to find: Apple
+Found in location: 2
+
+Product Number: #3
+Apple iPhone6
+Price: $250
+[500] in stock.
+_________________________________
+
+
+Process returned 0 (0x0)   execution time : 3.997 s
+Press any key to continue.
